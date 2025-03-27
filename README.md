@@ -45,7 +45,8 @@ make
 
 ## 🚀 Features
 <div align="center">
-  <img src="image/Result.png" width="700" alt="Thread workflow">
+  <!-- <img src="image/Result.png" width="700" alt="Thread workflow"> -->
+  <img src="Image\Output.png" width="700" alt="Thread workflow">
 </div>
 
 
